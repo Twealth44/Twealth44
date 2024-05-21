@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project related to python
 - 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: Don't take me too serious, Humor me
+- ⚡ Fun fact: Humor me
 
 <!---
 Twealth44/Twealth44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
