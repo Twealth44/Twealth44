@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Twealth44
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project related to python
+- 🌱 I’m currently learning Python and Linux
+- 💞️ I’m looking to collaborate on any project related to python and Linux
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: Humor me
 
